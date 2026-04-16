@@ -1,4 +1,4 @@
-package com.rabbitforunemotionlab
+package com.rabbit.forun.emotion.lab
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
