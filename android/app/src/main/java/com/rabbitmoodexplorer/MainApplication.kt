@@ -1,4 +1,4 @@
-package com.rabbit.forun.emotion.lab
+package com.rabbitmoodexplorer
 
 import android.app.Application
 import com.facebook.react.PackageList
